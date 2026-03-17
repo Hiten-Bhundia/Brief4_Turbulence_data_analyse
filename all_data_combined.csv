@@ -1,0 +1,38 @@
+Station,Tube Line,Turbulence,X,Y
+Charring Cross,Bakerloo,4,-0.1247,51.508
+Embankment,Bakerloo,10.4,-0.122,51.5073
+Lambeth Warth,Bakerloo,9.1,-0.1115,51.499
+Oxford Circus,Bakerloo,13.6,-0.1419,51.5154
+Picadilly Circus,Bakerloo,9.4,-0.1342,51.5101
+Waterloo,Bakerloo,13.6,-0.1136,51.5036
+Bank,Central,8.5,-0.089,51.5133
+Chancery Lane,Central,6.6,-0.1113,51.5182
+Holborn,Central,5.4,-0.1202,51.5171
+Liverpool Street,Central,4.7,-0.0823,51.5178
+St. Pauls,Central,21.2,-0.0976,51.5146
+Tottenham Court Road,Central,7.7,-0.13,51.5164
+Baywater,Circle,6.4,-0.187,51.5121
+Embankment,Circle,3.1,-0.122,51.5073
+Gloucester Road,Circle,13.1,-0.1835,51.4945
+High Street Kensington,Circle,6.7,-0.193,51.5008
+Notting Hill Gate,Circle,7.8,-0.1967,51.5093
+Sloane Square,Circle,6.9,-0.1565,51.4924
+South Kensington,Circle,8.9,-0.1736,51.4941
+St. James Park,Circle,5.3,-0.1346,51.4995
+Victoria,Circle,11.2,-0.1439,51.4965
+Westminister,Circle,3.4,-0.1247,51.501
+Bond Street,Elizabeth,4.2,-0.1494,51.5142
+Farringdon,Elizabeth,2.9,-0.1053,51.5203
+Paddington,Elizabeth,2.9,-0.1754,51.5154
+Tottenham Court Road,Elizabeth,3.6,-0.13,51.5164
+Charring Cross,Northern,6.5,-0.1247,51.508
+Euston,Northern,4.4,-0.1337,51.5282
+Goodge Street,Northern,4.6,-0.1344,51.5205
+Leicester Square,Northern,2.3,-0.1281,51.5113
+Tottenham Court Road,Northern,5.6,-0.13,51.5164
+Warren Street,Northern,5.8,-0.1384,51.5246
+Green Park,Victoria,9.2,-0.1428,51.5067
+Oxford Circus,Victoria,10.4,-0.1419,51.5154
+Pimlico,Victoria,6.4,-0.1335,51.4893
+Victoria,Victoria,12.2,-0.1439,51.4965
+Warren Street,Victoria,9,-0.1384,51.5246
